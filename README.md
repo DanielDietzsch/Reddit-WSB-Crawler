@@ -1,0 +1,2 @@
+# Reddit-WSB-Crawler
+This crawler can be used to analyze how often a NASDAQ share is mentioned in the hot section of Reddit's r/wallstreetbets.
